@@ -1,0 +1,84 @@
+.my-tests {
+  padding: 40px;
+  color: white;
+}
+
+.tests-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.test-card {
+  background: rgba(40, 40, 40, 0.8);
+  padding: 20px;
+  border-radius: 16px;
+  width: 260px;
+
+  transition: 0.3s;
+}
+
+.test-card:hover {
+  transform: scale(1.05);
+}
+
+.test-info {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.start-btn {
+
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background: #373837;
+  color: white;
+  cursor: pointer;
+}
+
+.start-btn:hover {
+  background: #4e504e;
+}
+
+.add-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+    height: 185px;
+  border: 2px dashed #555;
+  background: transparent;
+}
+
+.add-card:hover {
+  background: #4e504e;
+  transform: scale(1.05);
+}
+
+.plus {
+  font-size: 48px;
+  color: #888;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
+.delete-btn {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background: #a83232;
+  color: white;
+  cursor: pointer;
+}
+
+.delete-btn:hover {
+  background: #d14b4b;
+}

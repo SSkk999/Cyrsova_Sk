@@ -1,0 +1,42 @@
+.create-test {
+  padding: 40px;
+  color: white;
+}
+
+input {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+  width: 300px;
+}
+
+.question-block {
+  margin-top: 20px;
+  padding: 15px;
+  background: rgba(40, 40, 40, 0.8);
+  border-radius: 12px;
+}
+
+.answer {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px;
+  cursor: pointer;
+  
+
+}
+
+.submit-btn {
+  background: rgb(34, 34, 34);
+  color: white;
+  border-color: rgb(0, 0, 0);
+}
+
+.submit-btn:hover {
+  background: rgb(68, 70, 68);
+}

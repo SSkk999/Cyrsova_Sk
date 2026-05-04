@@ -1,0 +1,15 @@
+# Visual Studio
+back/.vs/
+**/.vs/
+
+# cache
+*.vsidx
+
+# backend
+back/bin/
+back/obj/
+
+# frontend
+node_modules/
+dist/
+build/

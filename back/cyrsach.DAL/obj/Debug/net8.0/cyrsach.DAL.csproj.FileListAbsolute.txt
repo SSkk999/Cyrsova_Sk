@@ -1,0 +1,25 @@
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.csproj.AssemblyReference.cache
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.AssemblyInfoInputs.cache
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.AssemblyInfo.cs
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.csproj.CoreCompileInputs.cache
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\Back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.csproj.AssemblyReference.cache
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\Back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\Back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.AssemblyInfoInputs.cache
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\Back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.AssemblyInfo.cs
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\Back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.csproj.CoreCompileInputs.cache
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.csproj.AssemblyReference.cache
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.AssemblyInfoInputs.cache
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.AssemblyInfo.cs
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.csproj.CoreCompileInputs.cache
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.sourcelink.json
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\bin\Debug\net8.0\cyrsach.DAL.deps.json
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\bin\Debug\net8.0\cyrsach.DAL.runtimeconfig.json
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\bin\Debug\net8.0\cyrsach.DAL.dll
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\bin\Debug\net8.0\cyrsach.DAL.pdb
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.dll
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\obj\Debug\net8.0\refint\cyrsach.DAL.dll
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.pdb
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\obj\Debug\net8.0\cyrsach.DAL.genruntimeconfig.cache
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.DAL\obj\Debug\net8.0\ref\cyrsach.DAL.dll

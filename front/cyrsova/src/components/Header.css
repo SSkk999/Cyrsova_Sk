@@ -1,0 +1,239 @@
+.username:hover
+{
+  cursor: pointer;  
+}
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.9rem 1.2rem;
+  background: rgba(26, 26, 26, 0.85);
+  border-bottom: 1px solid var(--color-border-soft);
+  box-shadow: 0 10px 30px rgba(22, 54, 48, 0.08);
+  backdrop-filter: blur(8px);
+
+}
+
+.header-main {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+}
+
+.logo {
+  font-size: 1.45rem;
+  font-weight:200;
+  color: var(--color-brand);
+  text-decoration: none;
+  letter-spacing: -0.35px;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.header-nav.hover{
+  color: #5c5c5c;
+}
+
+.nav-tests-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.3rem;
+  padding: 0.5rem 0.95rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid transparent;
+  background: rgba(45, 106, 95, 0.08);
+  color: var(--color-brand);
+  font-size: 0.84rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: var(--transition-fast);
+  text-decoration: none;
+}
+
+.nav-tests-btn:hover {
+  background: rgba(45, 106, 95, 0.16);
+  border-color: rgba(45, 106, 95, 0.18);
+  transform: translateY(-1px);
+}
+
+.nav-tests-btn:active {
+  background: rgba(45, 106, 95, 0.22);
+  transform: translateY(0);
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+
+
+.menu-wrap {
+  position: relative;
+}
+
+.menu-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  min-height: 2.3rem;
+  padding: 0.45rem 0.8rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border-soft);
+  background: rgba(255, 255, 255, 0.85);
+  color: var(--color-brand);
+  font-size: 0.82rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: var(--transition-fast);
+}
+
+.menu-trigger:hover {
+  background: rgba(45, 106, 95, 0.1);
+  border-color: rgba(45, 106, 95, 0.28);
+}
+
+.menu-trigger-open {
+  box-shadow: var(--shadow-focus);
+}
+
+.menu-caret {
+  font-size: 0.74rem;
+  line-height: 1;
+}
+
+.user-trigger {
+  max-width: 220px;
+}
+
+.user-name {
+  display: inline-block;
+  max-width: 160px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+
+
+.auth-buttons {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.3rem;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.84rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: var(--transition-fast);
+  text-decoration: none;
+  border: 1px solid transparent;
+}
+
+.btn-primary {
+  background: var(--color-brand);
+  color: var(--color-surface);
+  border-color: var(--color-brand);
+}
+
+.btn-primary:hover {
+  background: var(--color-brand-dark);
+  border-color: var(--color-brand-dark);
+  transform: translateY(-1px);
+}
+
+.btn-primary:active {
+  background: var(--color-brand-dark);
+  transform: translateY(0);
+  filter: brightness(0.9);
+}
+
+.btn-secondary {
+  background: rgba(255, 255, 255, 0.85);
+  color: var(--color-brand);
+  border-color: var(--color-border-soft);
+}
+
+.btn-secondary:hover {
+  background: rgba(45, 106, 95, 0.1);
+  border-color: rgba(45, 106, 95, 0.28);
+}
+
+.btn-active {
+  box-shadow: var(--shadow-focus);
+}
+
+@media (min-width: 768px) {
+  .header {
+    padding: 1rem 2rem;
+  }
+}
+
+@media (min-width: 1100px) {
+  .header {
+    padding: 1rem 4rem;
+  }
+}
+
+@media (max-width: 760px) {
+  .header {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+  }
+
+  .header-main,
+  .header-controls {
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+ 
+  
+  .logo {
+    width: 100%;
+    text-align: center;
+  }
+}
+.loading {
+  opacity: 0.6;
+  transition: 0.2s;
+}
+
+.loaded {
+  opacity: 1;
+  transition: 0.3s;
+}
+
+.img-exit {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  transition: var(--transition-fast);
+  position: absolute;
+  right: 14px;
+  top: 16px;
+
+}
+.nav-tests-btn.hover {
+ color: #a7a7a7;
+}

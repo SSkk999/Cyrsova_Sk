@@ -1,0 +1,26 @@
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.csproj.AssemblyReference.cache
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.AssemblyInfoInputs.cache
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.AssemblyInfo.cs
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.csproj.CoreCompileInputs.cache
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\Back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.csproj.AssemblyReference.cache
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\Back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\Back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.AssemblyInfoInputs.cache
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\Back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.AssemblyInfo.cs
+C:\Users\cvant\OneDrive\Desktop\Tean_Job\Back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.csproj.CoreCompileInputs.cache
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.csproj.AssemblyReference.cache
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.AssemblyInfoInputs.cache
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.AssemblyInfo.cs
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.csproj.CoreCompileInputs.cache
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.sourcelink.json
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\bin\Debug\net8.0\cyrsach.BLL.deps.json
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\bin\Debug\net8.0\cyrsach.BLL.dll
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\bin\Debug\net8.0\cyrsach.BLL.pdb
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\bin\Debug\net8.0\cyrsach.DAL.dll
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\bin\Debug\net8.0\cyrsach.DAL.pdb
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\obj\Debug\net8.0\cyrsach..81419F0F.Up2Date
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.dll
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\obj\Debug\net8.0\refint\cyrsach.BLL.dll
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\obj\Debug\net8.0\cyrsach.BLL.pdb
+C:\Users\cvant\OneDrive\Desktop\Нова папка\Курсова\back\cyrsach.BLL\obj\Debug\net8.0\ref\cyrsach.BLL.dll
