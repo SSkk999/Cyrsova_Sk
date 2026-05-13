@@ -9,10 +9,12 @@ function Header() {
   const storedUser = localStorage.getItem("user");
   const userName = JSON.parse(storedUser)?.user?.name
   const userRole = JSON.parse(storedUser)?.user?.role;
+  const { setUser } = useUser();
 const handleLogout = () => {
-        toast.success("Logged out successfully");
+        toast.success("Ви успішно вийшли з акаунту!");
 
   localStorage.removeItem("user");
+  setUser(null);
 
 
     

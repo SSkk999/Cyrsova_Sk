@@ -2,11 +2,11 @@ import "./Login.css";
 import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { toast } from "react-toastify";
-
+import { useUser } from "../../context/UserContext";
 export default function RegisterPage() {
   const [name, setName] = useState("");
   const [password, setPassword] = useState("");
-
+  const { setUser, fetchCrystals } = useUser();
   const navigate = useNavigate();
 
   const handleRegister = async () => {
@@ -33,9 +33,9 @@ export default function RegisterPage() {
       toast.success("Реєстрація успішна ✅");
 
       localStorage.setItem("user", JSON.stringify(data.payload));
-      setTimeout(() => {
-        navigate("/tests");
-      }, 100);
+      setUser(data.payload);
+      await fetchCrystals(data.payload.user.id);
+      navigate("/tests");
 
     } catch (error) {
       toast.error("Сервер не відповідає 🚫");

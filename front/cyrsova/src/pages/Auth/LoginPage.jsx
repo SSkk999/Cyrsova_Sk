@@ -3,6 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { toast } from "react-toastify";
 import { useUser } from "../../context/UserContext";
+
 export default function LoginPage() {
   const [name, setName] = useState("");
   const [password, setPassword] = useState("");
@@ -28,6 +29,7 @@ const { setUser,crystals , fetchCrystals } = useUser();
 
 
       localStorage.setItem("user", JSON.stringify(data.payload));
+      setUser(data.payload);
       await fetchCrystals(data.payload.user.id);
       toast.success("Успішний вхід ✅");
 
