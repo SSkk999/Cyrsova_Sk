@@ -31,7 +31,7 @@ function App() {
         <Route element={<ProtectedRoute />}>
         
           <Route path={HEADER_ROUTES.TESTS} element={<TestsPage />} />
-          <Route path="/tests/cars/:id" element={<CarTest />} />
+          <Route path="/tests/tests/:id" element={<CarTest />} />
           <Route path={HEADER_ROUTES.MyTests} element={<MyTestPage />} />
           <Route path={HEADER_ROUTES.AddTest} element={<AddTestPage />} />
           <Route path={HEADER_ROUTES.AdminPanel} element={<AdminControlePage />} />

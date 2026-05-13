@@ -37,7 +37,7 @@ export default function TestsGrid() {
             </div>
 
             <Link
-              to={`/tests/cars/${test.id}`}
+              to={`/tests/tests/${test.id}`}
               state={{ test }}
               className="button_test_grid"
             >
