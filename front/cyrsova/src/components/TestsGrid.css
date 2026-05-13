@@ -11,6 +11,13 @@
   margin-top: 30px;
 }
 
+.no-tests {
+  font-size: 18px;
+  color: #888;
+  margin-top: -50px;
+  margin-left: -80px;
+}
+
 .card_test_grid {
   padding: 20px;
   border-radius: 16px;

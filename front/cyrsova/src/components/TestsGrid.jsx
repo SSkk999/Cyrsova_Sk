@@ -23,9 +23,12 @@ export default function TestsGrid() {
   }, []);
 
   return (
+    
     <div className="tests-page">
       <h1>Обери тест</h1>
-
+      {tests.length === 0 ? (
+        <p className="no-tests">Немає тестів 😢</p>
+      ) : (
       <div className="grid_test_grid">
         {tests.map((test) => (
           <div key={test.id} className="card_test_grid">
@@ -46,6 +49,7 @@ export default function TestsGrid() {
           </div>
         ))}
       </div>
+      )}
     </div>
   );
 }
